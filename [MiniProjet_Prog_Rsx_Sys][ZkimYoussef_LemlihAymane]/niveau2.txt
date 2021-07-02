@@ -1,0 +1,4 @@
+La primitive de création d'un processus : A) wait \t B) fork \t C) signal \t D) Aucune des precedants
+la primitive de création d'un thread : A) pthread_t \t B) pthread_create  \t C) p_thread_join \t D) fork
+lequel des instructions suivantes n'est pas une un type de déclaration PLSQL A) IS TABLE \t B) INTEGER \t C) FETCH \t D) var%TYPE
+

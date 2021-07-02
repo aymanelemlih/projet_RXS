@@ -1,0 +1,12 @@
+1-Qu'est-ce que l'algorithme de Dijkstra ? (Trouvez l'une des deux bonnes réponses)
+	A.Le meilleur algorithme connu jusqu'à présent pour calculer le plus court chemin issu 		d'un sommet donné dans un graphe
+	B.Le meilleur algorithme connu jusqu'à présent pour calculer le plus court chemin entre 2 		sommets donnés dans un graphe
+	C.Le meilleur algorithme connu jusqu'a présent pour calculer le plus court chemin entre 2 		sommets quelconques dans un graphe
+2-En informatique, qu'est-ce qu'un arbre ?
+	A.Une structure de données permettant de représenter de façon compacte les éléments d'un ensemble
+	B.Un modèle de calcul de croissance des plantes
+	C.Un réseau ad hoc
+3-Qu'appelle-t-on machine de Turing universelle ?
+	A.Un modèle de calcul inventé par Turing
+	B.Un ordinateur construit par Turing
+	C.Un algorithme de décodage de messages secrets inventé par Turing pendant la guerre
